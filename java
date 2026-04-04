@@ -11,8 +11,7 @@ class Main {
       int nextTerm = firstTerm + secondTerm;
       firstTerm = secondTerm;
       secondTerm = nextTerm;
-      thirdterm = nextterm;
-      //4th term here
+
     }
   }
 }
