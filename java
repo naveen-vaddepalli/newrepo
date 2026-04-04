@@ -12,6 +12,7 @@ class Main {
       firstTerm = secondTerm;
       secondTerm = nextTerm;
       thirdterm = nextterm;
+      //4th term here
     }
   }
 }
